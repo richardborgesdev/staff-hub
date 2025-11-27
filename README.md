@@ -83,6 +83,44 @@ Success as a Staff Frontend Engineer includes:
 - Increased team productivity and satisfaction
 - Successful delivery of strategic technical initiatives
 
+### Archetypes
+
+Staff Engineers often operate in different modes depending on organizational needs. Understanding these archetypes helps identify where you can have the most impact:
+
+#### Tech Lead
+- **Focus**: Guides the technical direction of a specific team or product area
+- **Activities**: Hands-on coding, architecture decisions, code reviews, sprint planning
+- **Frontend Context**: Owns the frontend architecture for a product, defines component patterns, ensures consistent implementation
+- **Best For**: Teams needing deep technical guidance on specific projects
+
+#### Architect
+- **Focus**: Defines and evolves technical architecture across multiple teams
+- **Activities**: System design, technical standards, cross-team coordination, long-term planning
+- **Frontend Context**: Designs design systems, establishes frontend infrastructure, defines micro-frontend boundaries, creates reusable patterns
+- **Best For**: Organizations scaling frontend systems across multiple products
+
+#### Solver
+- **Focus**: Tackles the most complex and ambiguous technical problems
+- **Activities**: Deep dives into critical issues, prototyping solutions, unblocking teams
+- **Frontend Context**: Solves performance bottlenecks, debugs complex rendering issues, resolves challenging browser compatibility problems
+- **Best For**: Organizations with critical technical challenges that need deep expertise
+
+#### Right Hand
+- **Focus**: Extends the reach of an executive or senior leader
+- **Activities**: Executing on strategic initiatives, representing leadership in technical discussions, translating vision to implementation
+- **Frontend Context**: Drives frontend strategy alignment with company goals, represents frontend perspective in leadership decisions
+- **Best For**: Growing organizations where leadership needs technical leverage
+
+### Choosing Your Archetype
+
+Most Staff Engineers blend multiple archetypes, but often have a primary mode:
+
+- **Early-stage companies**: Often need Tech Leads and Solvers to build and stabilize products
+- **Scaling companies**: Benefit from Architects to establish consistent patterns across growing teams
+- **Mature organizations**: May need Right Hands to execute strategic initiatives and Solvers for complex migrations
+
+Your archetype may evolve over time based on organizational needs and your interests. The key is understanding where you can create the most value for your team and company.
+
 ## Certifications
 ### [From Senior to Staff + Certification | LINUXtips | November 18, 2025](https://www.credential.net/5e343c57-0ae5-4a5d-b683-3bb1c0da2391#acc.siPgtGCW)
 ![From Senior to Staff + Certification | LINUXtips](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/166867420)
